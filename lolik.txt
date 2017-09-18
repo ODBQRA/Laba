@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 text s vetki 2
+=======
+dobovlau text kak otec
+>>>>>>> vetka
